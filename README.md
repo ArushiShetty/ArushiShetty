@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=800&color=FF70C8&center=true&vCenter=true&width=700&lines=PLAYER+001%3A+ARUSHI;Loading+developer+skills...;Quest%3A+Build+something+awesome!)
+
 <div align="center">
 
 # ✦ ARUSHI.EXE ✦
